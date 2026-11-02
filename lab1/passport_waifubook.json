@@ -1,0 +1,83 @@
+{
+  "collected_at": "2026-11-02T16:53:17+05:00",
+  "system": {
+    "hostname": "waifubook",
+    "os": "Windows",
+    "os_version": "10.0.26200",
+    "architecture": "AMD64",
+    "boot_time": "2026-10-25T17:28:05+05:00"
+  },
+  "cpu": {
+    "model": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "physical_cores": 10,
+    "logical_cores": 12,
+    "max_freq_mhz": 1300,
+    "load_percent": 12.1
+  },
+  "memory": {
+    "total_gb": 15.73,
+    "used_percent": 80.4,
+    "available_gb": 3.08
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fs": "NTFS",
+      "total_gb": 471.54,
+      "used_percent": 55.3
+    },
+    {
+      "device": "D:\\",
+      "mountpoint": "D:\\",
+      "fs": "NTFS",
+      "total_gb": 3.48,
+      "used_percent": 72.9
+    }
+  ],
+  "network": [
+    {
+      "name": "Ethernet",
+      "ipv4": "192.168.56.1",
+      "netmask": "255.255.255.0",
+      "mac": "0A-00-27-00-00-09"
+    },
+    {
+      "name": "Подключение по локальной сети* 9",
+      "ipv4": "169.254.142.41",
+      "netmask": "255.255.0.0",
+      "mac": "E8-BF-B8-8B-24-D3"
+    },
+    {
+      "name": "Подключение по локальной сети* 10",
+      "ipv4": "169.254.195.194",
+      "netmask": "255.255.0.0",
+      "mac": "EA-BF-B8-8B-24-D2"
+    },
+    {
+      "name": "Беспроводная сеть",
+      "ipv4": "192.168.1.192",
+      "netmask": "255.255.255.0",
+      "mac": "E8-BF-B8-8B-24-D2"
+    },
+    {
+      "name": "Сетевое подключение Bluetooth",
+      "ipv4": "169.254.194.208",
+      "netmask": "255.255.0.0",
+      "mac": "E8-BF-B8-8B-24-D6"
+    },
+    {
+      "name": "vEthernet (WSL (Hyper-V firewall))",
+      "ipv4": "172.27.64.1",
+      "netmask": "255.255.240.0",
+      "mac": "00-15-5D-07-D2-F1"
+    },
+    {
+      "name": "Loopback Pseudo-Interface 1",
+      "ipv4": "127.0.0.1",
+      "netmask": "255.0.0.0",
+      "mac": null
+    }
+  ],
+  "recommendations": []
+}

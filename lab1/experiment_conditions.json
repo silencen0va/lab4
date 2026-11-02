@@ -1,0 +1,8 @@
+{
+  "load": "one busy Python process and 2 GiB bytearray",
+  "allocated_bytes": 2147483648,
+  "total_ram_bytes": 16890322944,
+  "available_before_bytes": 3263942656,
+  "logical_processors": 12,
+  "duration_seconds": 30
+}
